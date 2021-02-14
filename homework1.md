@@ -106,6 +106,6 @@ Answer here
 
 Positive , if dogs names increase the cats names increase also and also
 if dogs names decrease the cats name decrease also in the same name of
-them .
+THEM .
 
 (4 points)
