@@ -68,7 +68,7 @@ Luna        355
  seattlepets %>%
      group_by(species) %>%
      count(animal_name, sort = TRUE) %>%
-     slice_max(n, n = 5)%>%arrange(species, n)
+     slice_max(n, n = 5)%>%arrange(species, n) 
 ```
 
 

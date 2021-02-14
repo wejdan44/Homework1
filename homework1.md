@@ -70,7 +70,7 @@ Write your narrative here NA 483 Lucy 439 Charlie 387 Luna 355
  seattlepets %>%
      group_by(species) %>%
      count(animal_name, sort = TRUE) %>%
-     slice_max(n, n = 5)%>%arrange(species, n)
+     slice_max(n, n = 5)%>%arrange(species, n) 
 ```
 
     ## # A tibble: 53 x 3
