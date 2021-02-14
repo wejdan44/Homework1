@@ -44,17 +44,21 @@ Write your narrative here
 ```
 Write your narrative below
 
+7
 
 `3. Copy the code provided in the homework documentation and paste it here. 
 
 (4 points)
 
 ```{r}
-
+seattlepets %>%
+count(animal_name, sort = TRUE)
 ```
 Write your narrative here
-
-
+NA          483
+Lucy        439
+Charlie     387
+Luna        355
 
 `4.
 
