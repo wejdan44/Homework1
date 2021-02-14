@@ -19,13 +19,13 @@ library(ggrepel)
 
 \#\#Exercises
 
-\`1.
+\`1
 
 (4 points)
 
 Write your narrative here
 
-52519
+52519 .
 
 \`2.
 
@@ -33,7 +33,7 @@ Write your narrative here
 
 Write your narrative below
 
-7
+7 .
 
 \`3. Copy the code provided in the homework documentation and paste it
 here.
